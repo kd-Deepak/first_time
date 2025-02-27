@@ -1,2 +1,2 @@
 # first_time
-start the learn github
+start the learn github.
